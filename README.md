@@ -11,7 +11,7 @@ Tech Stack
 
 - HTML5, CSS3, JavaScript, TypeScript
 - Tailwind CSS Material-Ui Shadcn-Ui Node.js React Next.js Express js
-- MongoDB
+- MongoDB, NeonDB
 - Testing Libraries
 - Git
 
