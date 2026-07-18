@@ -51,5 +51,5 @@ RAG pipelines · NLP annotation · local inference with transformers.js
 
 Open to freelance projects, collaboration, and interesting technical conversations.
 
-[LinkedIn](https://www.linkedin.com/in/davidcudeji) · [X (Twitter)](#) 
+[LinkedIn](https://www.linkedin.com/in/davidcudeji) · [X (Twitter)](https://x.com/DavidUdeji46732) 
 
