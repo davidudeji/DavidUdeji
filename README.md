@@ -1,4 +1,4 @@
-## Hi, I'm David Udeji 👋
+## Hi, I'm David Udeji 
 
 Full-stack software engineer specializing in **AI-powered applications** — final-year CS student at the University of Nigeria, Nsukka, and a freelance developer building production-grade systems for real clients.
 
@@ -6,7 +6,7 @@ I like solving problems that sit at the intersection of solid backend architectu
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 **Smart Peak Performance & Mental Fitness Journal**
 A browser-based journaling app with local ML inference — no data ever leaves the client.
@@ -22,7 +22,7 @@ Inverted index · TF-IDF scoring · fuzzy matching · stemming
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frontend**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
@@ -39,7 +39,7 @@ RAG pipelines · NLP annotation · local inference with transformers.js
 
 ---
 
-## 🎯 Currently
+## Currently
 
 - Building out my freelance practice on **Upwork**, focused on full-stack + AI engineering work
 - Sharing what I learn — technical breakdowns on webhooks, closures, Prisma, and backend architecture — on TikTok and X
@@ -47,9 +47,9 @@ RAG pipelines · NLP annotation · local inference with transformers.js
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 Open to freelance projects, collaboration, and interesting technical conversations.
 
-[LinkedIn](#) · [X (Twitter)](#) · [TikTok](#)]
+[LinkedIn](https://Linkedin/in/davidudeji.com) · [X (Twitter)](#) 
 
